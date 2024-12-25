@@ -1,0 +1,1 @@
+Markdown es un lenguaje de marcado que _facilita la aplicación de formato_ a un texto empleando una serie de caracteres de una forma especial.

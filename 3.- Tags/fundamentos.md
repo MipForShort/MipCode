@@ -1,0 +1,1 @@
+Aquí se encuentran las cosas fundamentales de programación.

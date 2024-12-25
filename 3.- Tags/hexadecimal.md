@@ -1,0 +1,1 @@
+El ***sistema hexadecimal***, o ***base-16***, es una manera concisa de representar información en la computadora.
