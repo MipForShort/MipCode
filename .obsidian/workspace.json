@@ -13,15 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.- Main Notes/Propiedades fundamentales de la orientación a objetos.md",
+                "file": "3.- Tags/C.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C"
+            }
+          },
+          {
+            "id": "2de101d0c31ac9e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.- Main Notes/Introducción a la programación en C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedades fundamentales de la orientación a objetos"
+              "title": "Introducción a la programación en C"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,10 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23b8cf92361792ff",
+  "active": "2de101d0c31ac9e5",
   "lastOpenFiles": [
-    "4.- Indexes/Programación Orientada a Objetos.md",
     "6.- Main Notes/Propiedades fundamentales de la orientación a objetos.md",
+    "6.- Main Notes/Introducción a la programación en C.md",
+    "3.- Tags/C.md",
+    "4.- Indexes/Programación Orientada a Objetos.md",
     "7.- Images/Pasted image 20241225110739.png",
     "4.- Indexes/HTML y CSS.md",
     "4.- Indexes/Programación Modular.md",
@@ -191,8 +209,6 @@
     "1.- Rough Notes/Redes, Web y Web 2.0.md",
     "1.- Rough Notes/Qué es un programa.md",
     "1.- Rough Notes/Listas enlazadas singulares.md",
-    "1.- Rough Notes/Enlaces HTML.md",
-    "3.- Tags/Python.md",
     "7.- Images/Pasted image 20241215182644.png",
     "Pasted image 20241215182537.png",
     "7.- Images/Pasted image 20241215175844.png",

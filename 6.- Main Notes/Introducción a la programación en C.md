@@ -1,0 +1,51 @@
+
+2024-12-30 13:13
+
+Status: #terminado #documentación #fundamentos #C
+
+Tags: [[documentación]] [[fundamentos]]
+# Introducción a la programación
+
+Para entender qué es un lenguaje de programación es necesario entender un poco la estructura donde se ejecuta ese lenguaje mediante un ordenador.
+
+## Ordenador
+
+Es un dispositivo electrónico que **procesa**, **transforma** o **elabora** información.
+
+Es decir, a partir de datos de **entrada** y siguiendo reglas e instrucciones se generan datos de **salida**.
+
+## Procesador y memoria
+
+El aparato que realiza el procesamiento es el **procesador** o **CPU.** Para que el procesador acceda a datos se tienen que tener un dispositivo que los almacene, este se llama **memoria**. Esencialmente se utiliza la RAM (*Random Access Memory*). Esta almacena de forma temporal los datos con los cuales se comunica el CPU.
+
+## Periféricos
+
+Es el nombre para los dispositivos complementarios del ordenador. Son los que se utilizan para la obtención, almacenamiento, procesado y salida de datos.
+
+Hay periféricos de entrada como Mouse y teclado. Existen también de salida, como pantalla o impresoras. Los que almacenan datos son usualmente conocidos como discos duros, unidades de estado sólido, memorias USB, etc.
+
+## Instrucciones de Código Máquina
+
+Se conocen a estas como el conjunto de operaciones básicas del procesador. Incluyen operaciones matemáticas, comparaciones, operaciones lógicas y operaciones de gestión de ejecución.
+
+## Programa y su ejecución
+
+Un programa son el conjunto de instrucciones para la máquina. La RAM además de almacenar datos a procesar, se encuentran los programas que ya se estén ejecutando. Esta memoria permite mantener la posición del programa que se esté ejecutando, así como el que se vaya ejecutar al mismo tiempo para simular que se están ejecutando dos o más procesos al mismo tiempo.
+
+## Lenguaje de programación
+
+Son el conjunto de reglas para manipular información. Existen distintos niveles como bajo nivel que son los que se comunican directo con el procesador; alto nivel, que tratan de asemejarse más con los idiomas entendibles por el humano.
+
+## Compiladores e intérpretes
+
+Compiladores toman un programa en lenguaje de alto nivel, lo traducen completo y ejecutan de una sola vez. Si hay errores, estos pueden detener por completo el proceso o pueden causar errores no previstos en la lógica del programa.
+
+Los interpretes traducen el programa línea por línea en vez de hacerlo en una sola vez. 
+
+## Ficheros de texto y editores
+
+Podemos utilizar editores de archivos de texto para comenzar a programar y se guardan con la extensión del lenguaje que utilizamos para programarlo. Unos ejemplos puedes ser ```/.c /.cpp /.py /.js```.
+
+Algunos editores de texto populares puede ser Visual Code, creado por Microsoft.
+
+## References

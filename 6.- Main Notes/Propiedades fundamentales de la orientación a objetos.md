@@ -10,7 +10,7 @@ Las siguientes son características ligadas a la orientación de objetos. Estas 
 
 - Abstracción (Tipos abstractos de datos y clases)
 - Encapsulado de datos
-- Ocultación de datos
+- Ocultación de datos 
 - Herencia
 - Polimorfismo
 
