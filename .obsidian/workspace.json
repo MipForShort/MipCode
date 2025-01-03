@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19bbc727ff33fda3",
+            "id": "c72c3c8e2b3343a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1.- Rough Notes/4. Asignacion. Operadores.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4. Asignacion. Operadores"
             }
           }
         ]
@@ -39,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -150,21 +154,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "19bbc727ff33fda3",
+  "active": "c72c3c8e2b3343a0",
   "lastOpenFiles": [
-    "1.- Rough Notes/2.- El Primer programa en C.md",
-    "1.- Rough Notes/3.- Variables en C.md",
-    "1.- Rough Notes/1.- Introducción a la programación en C.md",
-    "4.- Indexes/Programación en C.md",
     "6.- Main Notes/Propiedades fundamentales de la orientación a objetos.md",
+    "1.- Rough Notes/4. Asignacion. Operadores.md",
+    "1.- Rough Notes/1.- Introducción a la programación en C.md",
+    "1.- Rough Notes/3.- Variables en C.md",
+    "1.- Rough Notes/2.- El Primer programa en C.md",
+    "1.- Rough Notes/El método para la solución de problemas.md",
+    "4.- Indexes/Programación en C.md",
     "3.- Tags/C.md",
     "4.- Indexes/Programación Estructurada.md",
     "4.- Indexes/Programación Modular.md",
@@ -187,8 +193,6 @@
     "2.- Source Material/Estructuras de datos en C.md",
     "2.- Source Material/Números Hexadecimales.md",
     "2.- Source Material/Lenguajes de programación.md",
-    "1.- Rough Notes/El método para la solución de problemas.md",
-    "1.- Rough Notes/Solución de acertijos.md",
     "7.- Images/Pasted image 20241215182644.png",
     "Pasted image 20241215182537.png",
     "7.- Images/Pasted image 20241215175844.png",
