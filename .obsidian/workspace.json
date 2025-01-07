@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -154,17 +154,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "eaa7b0c8bdfa5a50",
   "lastOpenFiles": [
-    "1.- Rough Notes/4. Asignacion. Operadores.md",
+    "1.- Rough Notes/4. Asignación. Operadores.md",
     "1.- Rough Notes/5. Estructuras de Control de Flujo.md",
     "6.- Main Notes/Propiedades fundamentales de la orientación a objetos.md",
     "1.- Rough Notes/1.- Introducción a la programación en C.md",
