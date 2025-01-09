@@ -30,5 +30,5 @@ Tags: [[documentación]] [[fundamentos]] [[C]]
 
 ### 6. Ejemplos 1 (Bucles)
 
-
+[[6.- Ejercicios 1 (Bucles)]]
 ## References
