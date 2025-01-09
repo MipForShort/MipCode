@@ -8,14 +8,27 @@ Tags: [[documentación]] [[fundamentos]] [[C]]
 
 ## Contenido
 
-### Introducción
+### 1. Introducción
 
 [[1.- Introducción a la programación en C]]
 
-### El Primer programa en C
+### 2. El Primer programa en C
 
 [[2.- El Primer programa en C]]
 
+### 3. Variables en C
+
+[[3.- Variables en C]]
+
+### 4. Asignación. Operadores
+
+[[4.- Asignación. Operadores]]
+
+### 5. Estructuras de Control de Flujo
+
+[[5.- Estructuras de Control de Flujo]]
+
+### 6. Ejemplos 1 (Bucles)
 
 
 ## References
