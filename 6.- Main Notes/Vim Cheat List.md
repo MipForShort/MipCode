@@ -1,7 +1,7 @@
 
 2025-04-26 14:51
 
-Status: #terminado #documentación #fundamentos
+Status: #terminado #documentación #fundamentos #vim
 
 Tags: [[documentación]] [[fundamentos]]
 # Vim Cheat List
