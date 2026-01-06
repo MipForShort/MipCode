@@ -6,7 +6,11 @@ Status: #enProceso #documentación #fundamentos
 Tags: [[documentación]] [[fundamentos]] [[C]] [[Programación en C]]
 # CS50 WEEK 1
 
+```c
+/* agree.c */
 
+
+```
 
 
 ## References
